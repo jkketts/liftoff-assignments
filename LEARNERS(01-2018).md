@@ -14,7 +14,7 @@
 
 ### Dave Morse's Group
 - [Causevic, Belkisa (@belkisac)](https://github.com/belkisac/liftoff-assignments)
-- [Cunningham, Yuan (@2username)](https://github.com/2usernam/liftoff-assignments.git)
+- [Cunningham, Yuan (@MiaCunningham)](https://github.com/MiaCunningham/liftoff-assignments.git)
 - [Doyle, Brian (@DoyleShoyle)](https://github.com/DoyleShoyle/liftoff-assignments)
 - [Francois, Jacob (@jafranswa)](https://github.com/jafranswa/liftoff-assignments.git)
 - [Kinder, Travis (@tkinder89)](https://github.com/tkinder89/liftoff-assignments)
@@ -26,18 +26,18 @@
 - Apprill, Benjamin
 - Jeff
 - [Meyer, Kevin (@aeroSME)](https://github.com/aeroSME/liftoff-assignments.git)
-- Misra, Tavish
+- [Misra, Tavish (@tmisra2004)](https://github.com/tmisra2004/liftoff-assignments.git)
 - [Moehle, Jayme (@2x3x7)](https://github.com/2x3x7/liftoff-assignments)
 - [Prychitko, Emily (@emilypry)](https://github.com/emilypry/liftoff-assignments)
 - [Tanyu, Kingsly (@kstanyu)](https://github.com/kstanyu/liftoff-assignments)
 - [Terry, Tennille (@tennilleterry)](https://github.com/tennilleterry/liftoff-assignments)
-- Yoon, Douglas
+- [Yoon, Douglas (@douglaskyoon)](https://github.com/douglaskyoon/liftoff-assignments)
 
 ### Kasey Oglesby's Group
 - [Flores, Jim (@jimflores5)](https://github.com/jimflores5/liftoff-assignments)
 - [Haderer, Alexandra (@Alexandriniums)](https://github.com/Alexandriniums/liftoff-assignments)
 - [Harris, Nora (@noragharris)](https://github.com/noragharris/liftoff-assignments)
-- Hopkins, Brad
+- [Hopkins, Brad (@bradlhopkins)](https://github.com/bradlhopkins/liftoff-assignments)
 - [Kirkum, Robert (@robert113289)](https://github.com/robert113289/liftoff-assignments)
 - [Owens, Chris (@ChristopherMichaelOwens)](https://github.com/ChristopherMichaelOwens/liftoff-assignments)
 - [Schulte, Colin (@pezhead53)](https://github.com/pezhead53/liftoff-assignments)
@@ -55,11 +55,11 @@
 
 ### Michael Antry's Group
 - [Corlett, Kevin (@BigKev47)](https://github.com/BigKev47/liftoff-assignments)
-- Houk, Jason
+- [Houk, Jason (@jahouk)](https://github.com/jahouk/liftoff-assignments)
 - [Jones, Nicholas (@GentlemansKiller)](https://github.com/GentlemansKiller/liftoff-assignments)
 - [Lowell, Anne (@aklowell)](https://github.com/aklowell/liftoff-assignments)
 - [Martin, Andre (@andrekmartin)](https://github.com/andrekmartin/liftoff-assignments)
-- McElroy, Daphne
+- [McElroy, Daphne (@Dakota2525)](https://github.com/Dakota2525/liftoff-assignments)
 - [Min, Alex (@amreever)](https://github.com/amreever/liftoff-assignments)
 - [PERDUE, JOHN (@johnperdue05)](https://github.com/johnperdue05/liftoff-assignments)
 
@@ -69,7 +69,7 @@
 - [Foreman, Lisa (@lforeman)](https://github.com/lforeman/liftoff-assignments.git)
 - [Gupta, Priyanka (@priyug29)](https://github.com/priyug29/liftoff-assignments)
 - [Schmidt, Elliot (@FlawlessLogic)](https://github.com/FlawlessLogic/liftoff-assignments)
-- Short, Logan
+- [Short, Logan (@loganshort)](https://github.com/loganmshort/liftoff-assignments)
 - [Wheelehan, Jeremiah (@jdwheelehan)](https://github.com/jdwheelehan/liftoff-assignments)
 - [Wiedenman, Landon (@landongw)](https://github.com/landongw/liftoff-assignments)
 
@@ -81,10 +81,10 @@
 - [Ghosh, Shashwati (@sash29)](https://github.com/sash29/liftoff-assignments.git)
 - [Hogan, Matthew (@githubbing)](https://github.com/githubbing/liftoff-assignments)
 - [Holt, Crystal (@Chrissy-Kellie)](https://github.com/Chrissy-Kellie/liftoff-assignments)
-- Shuman, Tom
+- [Shuman, Tom (@GitMeOutaHere)](https://github.com/GitMeOutaHere/liftoff-assignments)
 
 ### Steve Moxley's Group
-- Abraha, Tem
+- [Abraha, Tem (@tabraha1)](https://github.com/tabraha1/liftoff-assignments)
 - [Barrett, Andrew (@clampers)](https://github.com/clampers/liftoff-assignments)
 - [Bursac, Marcy(@MawsayB)](https://github.com/MawsayB/liftoff-assignments)
 - [Carnes, Paula(@paulamarcia)](https://github.com/paulamarcia/liftoff-assignments.git)
